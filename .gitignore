@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+Spotify Recommendation Projects/combined.json
+.gitignore
+Spotify Recommendation Projects/archive/dict_artists.json
+Spotify Recommendation Projects/mpd.slice.601000-601999.json
+Spotify Recommendation Projects/artists.csv
+Spotify Recommendation Projects/Data Storage/mpd*
+Spotify Recommendation Projects/archive/artists.csv
+Spotify Recommendation Projects/archive/tracks.csv
+Spotify Recommendation Projects/vetting_playlist.json
+Spotify Recommendation Projects/heyohriver.json
+Spotify Recommendation Projects/dict_artists.json
+Spotify Recommendation Projects/tracks.csv
+Spotify Recommendation Projects/playlist_exit_ticket.csv
+Spotify Recommendation Projects/archive.zip
+Maze Project/ezgif.com-video-to-gif-converter.gif
